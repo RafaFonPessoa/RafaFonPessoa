@@ -2,8 +2,6 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.f.pessoa/)
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafafonpessoa&show_icons=true&theme=merko)
-
 ### Linguagens mais utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafafonpessoa)](https://github.com/rafafonpessoa/github-readme-stats)
 
