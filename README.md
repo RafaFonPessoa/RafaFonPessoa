@@ -13,6 +13,10 @@
     <img align=center alt="Node.js" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) />
     <img align=center alt="Mongodb" src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white />
     <img align=center alt="MySQL" src=https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white />
+    <img align=center alt="Angular" src=https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white />
+    <img align=center alt="Axios" src=https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white />
+    <img align=center alt="TypeScript" src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
+    <img align=center alt="Postman" src=https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white />
 </div>
 
 ### Ferramentas que mais utilizo:
